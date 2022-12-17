@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1671055423 source:c:\users\user\documents\langage_c\tp-2022\gestion_etudiants\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
